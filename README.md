@@ -1,0 +1,1 @@
+# hashtag-copier-privacy
